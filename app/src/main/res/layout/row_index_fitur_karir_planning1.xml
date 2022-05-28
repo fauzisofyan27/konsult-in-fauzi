@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable name="indexFiturKarirPlanning1RowModel" type="com.application.app.modules.indexfiturkarirplanning.data.model.IndexFiturKarirPlanning1RowModel"/>
+    </data>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:clickable="true"
+        android:id="@+id/constraintMenuPersiapan"
+        android:layout_height="wrap_content" android:layout_width="@dimen/_70pxh">
+        <ImageView android:id="@+id/imageGroup306"
+            android:layout_height="0dp"
+            android:layout_marginEnd="@dimen/_10pxh"
+            android:layout_marginStart="@dimen/_10pxh"
+            android:layout_width="@dimen/_50pxh"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_group306_6"
+            app:layout_constraintBottom_toTopOf="@+id/txtChatKonsultasi"
+            app:layout_constraintDimensionRatio="1.0:1.0"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"/>
+        <ImageView android:id="@+id/imageChatsvgrepoco"
+            android:layout_height="0dp"
+            android:layout_marginBottom="@dimen/_13pxv"
+            android:layout_marginEnd="@dimen/_12pxh"
+            android:layout_marginStart="@dimen/_13pxh"
+            android:layout_marginTop="@dimen/_12pxv"
+            android:layout_width="@dimen/_25pxh"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_chatsvgrepoco"
+            app:layout_constraintBottom_toBottomOf="@+id/imageGroup306"
+            app:layout_constraintDimensionRatio="1.0:1.0"
+            app:layout_constraintEnd_toEndOf="@+id/imageGroup306"
+            app:layout_constraintHorizontal_bias="0.34"
+            app:layout_constraintStart_toStartOf="@+id/imageGroup306" app:layout_constraintTop_toTopOf="parent"/>
+        <TextView android:gravity="center"
+            android:id="@+id/txtChatKonsultasi"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:text="@{indexFiturKarirPlanning1RowModel.txtChatKonsultasi}"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageGroup306"
+            style="@style/txtPoppinsmedium11" tools:text="@string/lbl_chat_konsultasi"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">application</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="msg_buku_mind_platt">Buku Mind Platter Bejana Pikiran oleh ...</string>
+<string name="lbl_kami">Kami </string>
+<string name="msg_pilih_konsultas">Pilih Konsultasi mu</string>
+<string name="lbl_beranda">Beranda</string>
+<string name="lbl_cari_konsultan">Cari Konsultan</string>
+<string name="msg_konsultasi_keua">Konsultasi Keuangan</string>
+<string name="msg_data_center_pal">Data Center Paling Guud</string>
+<string name="msg_data_center_ada">Data Center adalah lorem ipsum pisum dolor sit amet lorem ceunah kata beurem mailtek its about ...</string>
+<string name="lbl_tambah">+ Tambah</string>
+<string name="lbl_semua">Semua</string>
+<string name="msg_konsultasi_pers">Konsultasi Persiapan Karir</string>
+<string name="lbl_berbagai_macam">berbagai macam</string>
+<string name="lbl_chat_konsultasi">Chat Konsultasi</string>
+<string name="msg_arsitektur_ba">Arsitektur &amp;
+Bangunan</string>
+<string name="lbl_tersedia">Tersedia </string>
+<string name="msg_bidang_konsulta"> Bidang Konsultasi dan
+Kamu bisa konsultasi </string>
+<string name="lbl_beli_in">Beli-in</string>
+<string name="lbl_berhasil">Berhasil</string>
+<string name="msg_ricard_archi_sa">Ricard Archi Santan Qassandra, Ph.D</string>
+<string name="msg_oleh_imbron_bin">Oleh Imbron bin somat dandles</string>
+<string name="lbl_persiapan_karir">Persiapan Karir</string>
+<string name="lbl_chat_sekarang">Chat Sekarang</string>
+<string name="msg_oleh_alexandria">Oleh Alexandria Kuora Yukki</string>
+<string name="lbl_teknologi">Teknologi</string>
+<string name="msg_tersedia_berbag">Tersedia berbagai macam Bidang Konsultasi dan
+Kamu bisa konsultasi kapan pun yang kamu mau</string>
+<string name="lbl_kesehatan">Kesehatan</string>
+<string name="msg_oleh_ricard_arc">Oleh Ricard Archi Santan Qassandra, P...</string>
+<string name="lbl_cari_barang">Cari Barang</string>
+<string name="lbl_psikotes">Psikotes</string>
+<string name="lbl_skip">Skip</string>
+<string name="msg_riwayat_transak">Riwayat Transaksi</string>
+<string name="lbl_menunggu">Menunggu</string>
+<string name="lbl_artikel">Artikel</string>
+<string name="lbl_atur_jadwal">Atur Jadwal</string>
+<string name="lbl_hewan">Hewan</string>
+<string name="lbl_gagal">Gagal</string>
+<string name="msg_konsultasi_kese">Konsultasi Kesehatan Mental</string>
+<string name="lbl_konsultasi">Konsultasi</string>
+<string name="lbl_4_9_29">4.9 (29)</string>
+<string name="lbl_rp100_000">Rp100.000</string>
+<string name="msg_konsultasi_dala">Konsultasi Dalam Satu Aplikasi</string>
+<string name="msg_halo_leonardo">Halo, Leonardo Yaeger</string>
+<string name="lbl_rp_50_000">Rp. 50.000</string>
+<string name="msg_konsultasi_apa">Konsultasi Apa Aja,
+Dimana Aja, dan Kapan Aja</string>
+<string name="lbl_sangat_senang">sangat senang</string>
+<string name="lbl_karir">Karir</string>
+<string name="lbl_buat_cv">Buat CV</string>
+<string name="lbl_yang_kamu_mau"> yang kamu mau</string>
+<string name="msg_rp_50_000_60">Rp. 50.000 / 60 Menit</string>
+<string name="lbl_kapan_pun">kapan pun</string>
+<string name="lbl_mu_disini"> mu disini</string>
+<string name="msg_sabtu_12_juni">Sabtu, 12 Juni 2021 - 19:00 WIB</string>
+<string name="msg_senin_9_mei_20">Senin, 9 Mei 2022 - 19:00 WIB</string>
+<string name="lbl_kursus_daring">Kursus Daring</string>
+<string name="msg_universitas_ist">Universitas Istio Kubectl</string>
+<string name="msg_bisa_menyediaka"> bisa menyediakan kebutuhan
+</string>
+<string name="msg_kami_sangat_sen">Kami sangat senang bisa menyediakan kebutuhan
+Konsultasi mu disini</string>
+<string name="lbl_hukum">Hukum</string>
+<string name="lbl_total_harga">Total Harga</string>
+<string name="msg_selamat_datang">Selamat Datang Kawan
+Konsult-In</string>
+<string name="lbl_keuangan">Keuangan</string>
+<string name="lbl_riwayat">Riwayat</string>
+<string name="lbl_akun">Akun</string>
+<string name="lbl_lainnya">Lainnya</string>
+<string name="msg_rekomendasi_har">Rekomendasi Hari Ini</string>
+<string name="msg_biaya_konsultas">Biaya Konsultasi</string>
+<string name="lbl_cari_transaksi">Cari Transaksi</string>
+<string name="msg_this_contact_has_no_phone_nu">This contact has no phone number</string>
+</resources>

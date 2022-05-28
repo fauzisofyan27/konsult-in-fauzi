@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+                                                                                                       
+    
+                                                                                                                                  
+           
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintGroup"
+        android:layout_height="wrap_content" android:layout_width="match_parent" android:tag="layout/row_splash_screen_4_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+        <ImageView android:id="@+id/imageVector"
+            android:layout_height="0dp"
+            android:layout_width="@dimen/_15pxh"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_vector_30"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintDimensionRatio="1.0:0.90413666"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"/>
+        <ImageView android:id="@+id/imageVector1"
+            android:layout_height="0dp"
+            android:layout_marginEnd="@dimen/_2pxh"
+            android:layout_marginStart="@dimen/_2pxh"
+            android:layout_marginTop="@dimen/_4pxv"
+            android:layout_width="@dimen/_9pxh"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_vector_31"
+            app:layout_constraintBottom_toTopOf="@+id/imageVector2"
+            app:layout_constraintDimensionRatio="1.0:0.10235414"
+            app:layout_constraintEnd_toEndOf="@+id/imageVector"
+            app:layout_constraintHorizontal_bias="0.17"
+            app:layout_constraintStart_toStartOf="@+id/imageVector" app:layout_constraintTop_toTopOf="@+id/imageVector"/>
+        <ImageView android:id="@+id/imageVector2"
+            android:layout_height="0dp"
+            android:layout_marginEnd="@dimen/_2pxh"
+            android:layout_marginStart="@dimen/_2pxh"
+            android:layout_marginTop="@dimen/_1pxv"
+            android:layout_width="@dimen/_9pxh"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_vector_32"
+            app:layout_constraintBottom_toTopOf="@+id/imageVector3"
+            app:layout_constraintDimensionRatio="1.0:0.10245901"
+            app:layout_constraintEnd_toEndOf="@+id/imageVector"
+            app:layout_constraintHorizontal_bias="0.17"
+            app:layout_constraintStart_toStartOf="@+id/imageVector" app:layout_constraintTop_toBottomOf="@+id/imageVector1"/>
+        <ImageView android:id="@+id/imageVector3"
+            android:layout_height="0dp"
+            android:layout_marginBottom="@dimen/_4pxv"
+            android:layout_marginEnd="@dimen/_5pxh"
+            android:layout_marginStart="@dimen/_4pxh"
+            android:layout_marginTop="@dimen/_1pxv"
+            android:layout_width="@dimen/_5pxh"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_vector_33"
+            app:layout_constraintBottom_toBottomOf="@+id/imageVector"
+            app:layout_constraintDimensionRatio="1.0:0.17985612"
+            app:layout_constraintEnd_toEndOf="@+id/imageVector"
+            app:layout_constraintHorizontal_bias="0.29"
+            app:layout_constraintStart_toStartOf="@+id/imageVector" app:layout_constraintTop_toBottomOf="@+id/imageVector2"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

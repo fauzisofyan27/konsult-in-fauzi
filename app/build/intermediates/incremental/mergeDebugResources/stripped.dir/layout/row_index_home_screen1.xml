@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+                                                                                                       
+    
+                                                                                                                                          
+           
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:clickable="true"
+        android:id="@+id/constraintMenuPersiapan"
+        android:layout_height="wrap_content" android:layout_width="match_parent" android:tag="layout/row_index_home_screen1_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+        <ImageView android:id="@+id/imageGroup306"
+            android:layout_height="0dp"
+            android:layout_marginEnd="@dimen/_10pxh"
+            android:layout_marginStart="@dimen/_10pxh"
+            android:layout_width="@dimen/_50pxh"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_group306"
+            app:layout_constraintBottom_toTopOf="@+id/txtPersiapanKarir"
+            app:layout_constraintDimensionRatio="1.0:1.0"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"/>
+        <TextView android:gravity="center"
+            android:id="@+id/txtPersiapanKarir"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:tag="binding_1"                                     
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageGroup306"
+            style="@style/txtPoppinsmedium11" tools:text="@string/lbl_persiapan_karir"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

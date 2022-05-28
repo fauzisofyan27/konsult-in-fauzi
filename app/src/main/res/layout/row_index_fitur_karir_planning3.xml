@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable name="indexFiturKarirPlanning3RowModel" type="com.application.app.modules.indexfiturkarirplanning.data.model.IndexFiturKarirPlanning3RowModel"/>
+    </data>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintGroup"
+        android:layout_height="wrap_content" android:layout_width="@dimen/_328pxh">
+        <View
+            android:background="@drawable/rectangle_bg_white_a700_border_teal_200_4c_radius_8"
+            android:id="@+id/viewRectangle129"
+            android:layout_height="@dimen/_238pxv"
+            android:layout_marginBottom="@dimen/_2pxv"
+            android:layout_width="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"/>
+        <TextView android:gravity="start"
+            android:id="@+id/txtDataCenterAda"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_2pxv"
+            android:layout_marginEnd="@dimen/_11pxh"
+            android:layout_marginStart="@dimen/_10pxh"
+            android:layout_marginTop="@dimen/_4pxv"
+            android:layout_width="0dp"
+            android:text="@{indexFiturKarirPlanning3RowModel.txtDataCenterAda}"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/viewRectangle129"
+            app:layout_constraintStart_toStartOf="@+id/viewRectangle129"
+            app:layout_constraintTop_toBottomOf="@+id/txtDataCenterPal"
+            style="@style/txtRobotoregular12" tools:text="@string/msg_data_center_ada"/>
+        <ImageView android:id="@+id/imageRectangle130"
+            android:layout_height="0dp"
+            android:layout_width="@dimen/_328pxh"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/txtDataCenterPal"
+            app:layout_constraintDimensionRatio="1.0:0.4817073"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            cornerRadius="@{@dimen/_8pxh}"
+            imageRes="@{@drawable/img_rectangle130_1}" tools:src="@drawable/img_rectangle130_1"/>
+        <TextView android:ellipsize="end" android:gravity="start"
+            android:id="@+id/txtDataCenterPal"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_133pxh"
+            android:layout_marginStart="@dimen/_10pxh"
+            android:layout_marginTop="@dimen/_6pxv"
+            android:layout_width="0dp" android:singleLine="true"
+            android:text="@{indexFiturKarirPlanning3RowModel.txtDataCenterPal}"
+            app:layout_constraintBottom_toTopOf="@+id/txtDataCenterAda"
+            app:layout_constraintEnd_toEndOf="@+id/viewRectangle129"
+            app:layout_constraintStart_toStartOf="@+id/viewRectangle129"
+            app:layout_constraintTop_toBottomOf="@+id/imageRectangle130"
+            style="@style/txtRobotoromanbold16_1" tools:text="@string/msg_data_center_pal"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

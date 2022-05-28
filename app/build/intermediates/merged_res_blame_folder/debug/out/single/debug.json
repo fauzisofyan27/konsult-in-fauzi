@@ -1,0 +1,746 @@
+[
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_brainunderstan.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_brainunderstan.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_44.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_44.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_activity_index_shop_screen.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_index_shop_screen.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_red_200_radius_6.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_red_200_radius_6.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_36.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_36.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_resumesvgrepo.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_resumesvgrepo.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_activity_index_home_screen.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_index_home_screen.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/font_poppinsmedium500.ttf.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/font/poppinsmedium500.ttf"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_29.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_29.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group62.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group62.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_66.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_66.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_28.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_28.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_21.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_21.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_notifications.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_notifications.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle130.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle130.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_51.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_51.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_7.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_7.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group306_5.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group306_5.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_13.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_13.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_plant.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_plant.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_58.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_58.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_white_a700_radius_8.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_white_a700_radius_8.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle123_1.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle123_1.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_white_a700.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_white_a700.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_ellipse4.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_ellipse4.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle123_2.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle123_2.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_activity_pilih_konsultan.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_pilih_konsultan.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_row_pilih_konsultan1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_pilih_konsultan1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_user_1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_user_1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_22.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_22.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_35.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_35.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/font_poppinsbold700.ttf.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/font/poppinsbold700.ttf"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_6.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_6.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_activity_splash_screen.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group306_4.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group306_4.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle123.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle123.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_row_index_home_screen1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_home_screen1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle168.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle168.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_gray_50.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_gray_50.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_row_index_shop_screen1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_shop_screen1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_60.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_60.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle122.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle122.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_42.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_42.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_57.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_57.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group49.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group49.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_row_index_home_screen2.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_home_screen2.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_31.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_31.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/font_robotomedium500.ttf.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/font/robotomedium500.ttf"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_34.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_34.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group306_3.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group306_3.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_learningsvgrep.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_learningsvgrep.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_green_50_radius_6.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_green_50_radius_6.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_45.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_45.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group314.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group314.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_9.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_9.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_character.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_character.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_icon_2.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_icon_2.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_24.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_24.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_62.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_62.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_11.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_11.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_37.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_37.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_4.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_4.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle182.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle182.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_row_index_fitur_karir_planning1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_fitur_karir_planning1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_orange_100_radius_6.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_orange_100_radius_6.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group306_6.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group306_6.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_white_a700_border_teal_200_66_radius_6.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_white_a700_border_teal_200_66_radius_6.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_white_a700_border_teal_200_4c_radius_9.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_white_a700_border_teal_200_4c_radius_9.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_52.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_52.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_icons_1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_icons_1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_14.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_14.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_ellipse6_1.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_ellipse6_1.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_27.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_27.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_border_cyan_100_radius_17_5.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_border_cyan_100_radius_17_5.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_65.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_65.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_icons.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_icons.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_25.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_25.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group315.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group315.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_icons_3.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_icons_3.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_17.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_17.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_gray_100_border_gray_100_radius_10.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_gray_100_border_gray_100_radius_10.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_63.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_63.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_55.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_55.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_icon_3.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_icon_3.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle122_2.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle122_2.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group51.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group51.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_10.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_10.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_47.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_47.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_32.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_32.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_18.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_18.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_39.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_39.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_eqweqwe1.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_eqweqwe1.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_40.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_40.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/font_poppinsregular400.ttf.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/font/poppinsregular400.ttf"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group314_1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group314_1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_indicator_selected_bg_cyan_100_radius_8.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/indicator_selected_bg_cyan_100_radius_8.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_row_index_fitur_karir_planning3.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_fitur_karir_planning3.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group315_1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group315_1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_activity_splash_screen_3.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_splash_screen_3.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_48.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_48.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group306_1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group306_1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_16.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_16.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_white_a700_border_teal_200_4c_radius_8.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_white_a700_border_teal_200_4c_radius_8.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle122_1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle122_1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_layout_progress_dialog.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/layout_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_54.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_54.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_41.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_41.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/font_poppinssemibold600.ttf.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/font/poppinssemibold600.ttf"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_row_index_history_screen1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_history_screen1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_19.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_19.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_3.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_3.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_38.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_38.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_icon.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_icon.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group306_7.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group306_7.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_icon_1.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_icon_1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_row_index_fitur_karir_planning2.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_fitur_karir_planning2.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_12.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_12.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_61.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_61.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle130_1.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle130_1.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_50.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_50.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/font_roboto.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/font/roboto.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/raw_lottie_loading.json.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/raw/lottie_loading.json"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_49.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_49.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_5.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_5.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_indicator_unselected_bg_bluegray_600_2b_radius_8.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/indicator_unselected_bg_bluegray_600_2b_radius_8.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_23.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_23.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_activity_index_history_screen.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_index_history_screen.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_chatsvgrepoco.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_chatsvgrepoco.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_activity_splash_screen_2.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_splash_screen_2.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_15.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_15.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_image_not_found.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/image_not_found.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/font_poppins.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/font/poppins.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_border_cyan_100_radius_17_6.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_border_cyan_100_radius_17_6.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_icons_2.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_icons_2.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group306.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group306.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_64.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_64.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_53.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_53.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_26.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_26.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_border_cyan_100_radius_20_5.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_border_cyan_100_radius_20_5.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_green_a700_radius_6_5.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_green_a700_radius_6_5.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_43.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_43.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group65.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group65.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_56.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_56.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_2.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_2.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_row_splash_screen_4.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_splash_screen_4.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_ellipse6.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_ellipse6.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_row_index_home_screen3.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_home_screen3.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_user.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_user.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_30.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_30.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_cyan_100_border_teal_200_33_radius_10.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_cyan_100_border_teal_200_33_radius_10.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_20.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_20.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_hourglass.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_hourglass.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_cyan_100_border_teal_200_4c_radius_6.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_cyan_100_border_teal_200_4c_radius_6.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_8.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_8.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_ilust.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_ilust.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_group306_2.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_group306_2.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_reviewbintang.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_reviewbintang.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/font_robotoregular400.ttf.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/font/robotoregular400.ttf"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/font_robotorobotoromanbold700.ttf.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/font/robotorobotoromanbold700.ttf"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_59.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_59.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/layout_activity_index_fitur_karir_planning.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_index_fitur_karir_planning.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_46.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_46.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_rectangle166.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_rectangle166.png"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_img_vector_33.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/img_vector_33.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/drawable_rectangle_bg_white_a700_border_gray_100_radius_10.xml.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/drawable/rectangle_bg_white_a700_border_gray_100_radius_10.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable name="splashScreenVM" type="com.application.app.modules.splashscreen.data.viewmodel.SplashScreenVM"/>
+    </data>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintSplashScreen"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent" style="@style/groupStylewhite_2">
+        <ImageView android:id="@+id/imageEqweqwe1"
+            android:layout_height="@dimen/_79pxh"
+            android:layout_marginEnd="@dimen/_140pxh"
+            android:layout_marginStart="@dimen/_141pxh"
+            android:layout_marginTop="@dimen/_349pxv"
+            android:layout_width="@dimen/_79pxh"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            imageRes="@{@drawable/img_eqweqwe1}" tools:src="@drawable/img_eqweqwe1"/>
+        <TextView android:ellipsize="end" android:gravity="center"
+            android:id="@+id/txtKonsultasiDala"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_349pxv"
+            android:layout_marginEnd="@dimen/_95pxh"
+            android:layout_marginStart="@dimen/_96pxh"
+            android:layout_marginTop="@dimen/_6pxv"
+            android:layout_width="0dp" android:singleLine="true"
+            android:text="@{splashScreenVM.splashScreenModel.txtKonsultasiDala}"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageEqweqwe1"
+            style="@style/txtPoppinsregular11_2" tools:text="@string/msg_konsultasi_dala"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+                                                                                                       
+    
+                                                                                                                          
+           
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintGroup260"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent" style="@style/groupStylegray_50" android:tag="layout/activity_splash_screen_2_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraintSplashScreen2"
+            android:layout_height="0dp" android:layout_width="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" style="@style/groupStylegray_50">
+            <TextView android:gravity="start"
+                android:id="@+id/txtSelamatDatang"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_16pxh"
+                android:layout_marginStart="@dimen/_16pxh"
+                android:layout_marginTop="@dimen/_40pxv"
+                android:layout_width="0dp"
+                android:tag="binding_1"                                              
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageIlust"
+                style="@style/txtPoppinsbold20" tools:text="@string/msg_selamat_datang"/>
+            <TextView android:gravity="start"
+                android:id="@+id/txtKamiSangatSen"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_16pxh"
+                android:layout_marginStart="@dimen/_16pxh"
+                android:layout_marginTop="@dimen/_8pxv"
+                android:layout_width="0dp"
+                android:tag="binding_2"                                              
+                app:layout_constraintBottom_toTopOf="@+id/constraintNav"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txtSelamatDatang"
+                style="@style/txtPoppinsregular12" tools:text="@string/msg_kami_sangat_sen"/>
+            <ImageView android:id="@+id/imageIlust"
+                android:layout_height="@dimen/_236pxh"
+                android:layout_marginEnd="@dimen/_53pxh"
+                android:layout_marginStart="@dimen/_54pxh"
+                android:layout_marginTop="@dimen/_186pxv"
+                android:layout_width="@dimen/_253pxh"
+                android:scaleType="fitXY"
+                android:src="@drawable/img_ilust"
+                app:layout_constraintBottom_toTopOf="@+id/txtSelamatDatang"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"/>
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraintNav"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_98pxv"
+                android:layout_marginEnd="@dimen/_16pxh"
+                android:layout_marginStart="@dimen/_16pxh"
+                android:layout_marginTop="@dimen/_84pxv"
+                android:layout_width="0dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@+id/txtKamiSangatSen">
+                <TextView android:ellipsize="end"
+                    android:id="@+id/txtSkip"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_15pxv"
+                    android:layout_marginTop="@dimen/_15pxv"
+                    android:layout_width="wrap_content"
+                    android:singleLine="true"
+                    android:tag="binding_3"                                     
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toStartOf="@+id/indicatorGroup48"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    style="@style/txtPoppinsregular13" tools:text="@string/lbl_skip"/>
+
+                <com.asksira.loopingviewpager.indicator.CustomShapePagerIndicator
+                    android:id="@+id/indicatorGroup48"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_5pxv"
+                    android:layout_marginEnd="@dimen/_134pxh"
+                    android:layout_marginStart="@dimen/_107pxh"
+                    android:layout_marginTop="@dimen/_5pxv"
+                    android:layout_width="wrap_content"
+                    app:drawable_normal="@drawable/indicator_unselected_bg_bluegray_600_2b_radius_8"
+                    app:drawable_selected="@drawable/indicator_selected_bg_cyan_100_radius_8"
+                    app:indicator_size="@dimen/_10pxh"
+                    app:indicator_spacing="@dimen/_7pxh"
+                    app:layout_constraintBottom_toBottomOf="@+id/txtSkip"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.37"
+                    app:layout_constraintStart_toEndOf="@+id/txtSkip" app:layout_constraintTop_toTopOf="@+id/txtSkip"/>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:backgroundTint="@color/cyan_100"
+            android:id="@+id/floatingBtnFloatingactionbutton"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_98pxv"
+            android:layout_marginEnd="@dimen/_16pxh"
+            android:layout_marginStart="@dimen/_294pxh"
+            android:layout_marginTop="@dimen/_652pxv"
+            android:layout_width="wrap_content"
+            app:fabCustomSize="@dimen/_50pxh"
+            app:layout_constraintBottom_toBottomOf="@+id/constraintSplashScreen2"
+            app:layout_constraintEnd_toEndOf="@+id/constraintSplashScreen2"
+            app:layout_constraintStart_toStartOf="@+id/constraintSplashScreen2"
+            app:layout_constraintTop_toTopOf="@+id/constraintSplashScreen2" app:srcCompat="@drawable/img_group49"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

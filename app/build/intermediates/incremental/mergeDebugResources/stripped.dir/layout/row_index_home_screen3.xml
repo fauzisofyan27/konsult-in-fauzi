@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+                                                                                                       
+    
+                                                                                                                                          
+           
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintGroup"
+        android:layout_height="wrap_content"
+        android:layout_width="@dimen/_160pxh" style="@style/groupStylewhite_A700cornerRadius" android:tag="layout/row_index_home_screen3_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+        <ImageView android:id="@+id/imageRectangle182"
+            android:layout_height="0dp"
+            android:layout_marginEnd="@dimen/_8pxh"
+            android:layout_marginStart="@dimen/_8pxh"
+            android:layout_marginTop="@dimen/_8pxv"
+            android:layout_width="@dimen/_144pxh"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/txtBukuMindPlatt"
+            app:layout_constraintDimensionRatio="1.0:0.8194444"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:tag="binding_1"                  tools:src="@drawable/img_rectangle182"/>
+        <TextView android:gravity="start"
+            android:id="@+id/txtBukuMindPlatt"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_8pxh"
+            android:layout_marginStart="@dimen/_8pxh"
+            android:layout_marginTop="@dimen/_4pxv"
+            android:layout_width="0dp"
+            android:tag="binding_2"                                    
+            app:layout_constraintBottom_toTopOf="@+id/txtRp100000"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageRectangle182"
+            style="@style/txtPoppinsmedium13" tools:text="@string/msg_buku_mind_platt"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:ellipsize="end" android:gravity="center"
+            android:id="@+id/btnTambah"
+            android:layout_height="@dimen/_30pxv"
+            android:layout_marginHorizontal="@dimen/_8pxh"
+            android:layout_marginVertical="@dimen/_8pxv"
+            android:layout_width="0dp" android:singleLine="true"
+            android:text="@string/lbl_tambah"
+            android:textAllCaps="false"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txtRp100000"
+            style="@style/btnRoundedOutline" tools:text="@string/lbl_tambah"/>
+        <TextView android:ellipsize="end" android:gravity="start"
+            android:id="@+id/txtRp100000"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_8pxh"
+            android:layout_marginStart="@dimen/_8pxh"
+            android:layout_marginTop="@dimen/_6pxv"
+            android:layout_width="0dp" android:singleLine="true"
+            android:tag="binding_3"                               
+            app:layout_constraintBottom_toTopOf="@+id/btnTambah"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txtBukuMindPlatt"
+            style="@style/txtPoppinsbold14" tools:text="@string/lbl_rp100_000"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

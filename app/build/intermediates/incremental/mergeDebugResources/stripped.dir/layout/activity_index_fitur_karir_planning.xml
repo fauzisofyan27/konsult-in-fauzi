@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+                                                                                                       
+    
+                                                                                                                                                        
+           
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintGroup176"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent" style="@style/groupStylegray_50" android:tag="layout/activity_index_fitur_karir_planning_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+        <androidx.core.widget.NestedScrollView
+            android:clipToPadding="false" android:fillViewport="true"
+            android:id="@+id/scrollViewScrollview"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/_16pxv"
+            android:layout_width="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@+id/constraintRectangle68">
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraintIndexFiturKar"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_16pxh"
+                android:layout_marginStart="@dimen/_16pxh" android:layout_width="match_parent">
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerMenuBarisPert"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_24pxv"
+                    android:layout_width="0dp"
+                    android:nestedScrollingEnabled="false"
+                    android:orientation="horizontal"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                    app:layout_constraintEnd_toEndOf="@+id/recyclerGroup137"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/constraintFrame9"
+                    android:tag="binding_1"      tools:itemCount="4" tools:listitem="@layout/row_index_fitur_karir_planning1"/>
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/constraintFrame9"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_16pxh"
+                    android:layout_width="wrap_content"
+                    app:layout_constraintBottom_toTopOf="@+id/recyclerMenuBarisPert"
+                    app:layout_constraintEnd_toEndOf="@+id/recyclerGroup137"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+                    <ImageView android:id="@+id/imageRectangle166"
+                        android:layout_height="@dimen/_90pxh"
+                        android:layout_marginStart="@dimen/_8pxh"
+                        android:layout_width="@dimen/_20pxh"
+                        android:scaleType="fitXY"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="1.84"
+                        app:layout_constraintStart_toEndOf="@+id/imageRectangle168"
+                        app:layout_constraintTop_toTopOf="parent"
+                        android:tag="binding_2"       
+                                                                 tools:src="@drawable/img_rectangle166"/>
+                    <ImageView android:id="@+id/imageRectangle168"
+                        android:layout_height="@dimen/_90pxh"
+                        android:layout_width="@dimen/_300pxh"
+                        android:scaleType="fitXY"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toStartOf="@+id/imageRectangle166"
+                        app:layout_constraintHorizontal_bias="0.05"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        android:tag="binding_3"       
+                                                                 tools:src="@drawable/img_rectangle168"/>
+                </androidx.constraintlayout.widget.ConstraintLayout>
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerGroup134"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_15pxv"
+                    android:layout_width="0dp"
+                    android:nestedScrollingEnabled="false"
+                    android:orientation="horizontal"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                    app:layout_constraintBottom_toTopOf="@+id/txtArtikel"
+                    app:layout_constraintEnd_toEndOf="@+id/recyclerGroup137"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/txtRekomendasiHar"
+                    android:tag="binding_4"      tools:itemCount="3" tools:listitem="@layout/row_index_fitur_karir_planning2"/>
+                <TextView android:ellipsize="end"
+                    android:gravity="start"
+                    android:id="@+id/txtRekomendasiHar"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_177pxh"
+                    android:layout_marginTop="@dimen/_16pxv"
+                    android:layout_width="0dp" android:singleLine="true"
+                    android:tag="binding_5"                                                                   
+                    app:layout_constraintBottom_toTopOf="@+id/recyclerGroup134"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/recyclerMenuBarisPert"
+                    style="@style/txtPoppinssemibold14_1" tools:text="@string/msg_rekomendasi_har"/>
+                <View android:background="@color/white_A700"
+                    android:id="@+id/viewRectangle131"
+                    android:layout_height="@dimen/_90pxv"
+                    android:layout_marginEnd="@dimen/_12pxh"
+                    android:layout_marginTop="@dimen/_234pxv"
+                    android:layout_width="@dimen/_316pxh"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="@+id/recyclerGroup137"/>
+                <TextView android:ellipsize="end"
+                    android:gravity="start" android:id="@+id/txtArtikel"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_282pxh"
+                    android:layout_marginTop="@dimen/_16pxv"
+                    android:layout_width="0dp" android:singleLine="true"
+                    android:tag="binding_6"                                                            
+                    app:layout_constraintBottom_toTopOf="@+id/recyclerGroup137"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/recyclerGroup134"
+                    style="@style/txtPoppinssemibold14_1" tools:text="@string/lbl_artikel"/>
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerGroup137"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_84pxv"
+                    android:layout_marginTop="@dimen/_15pxv"
+                    android:layout_width="0dp"
+                    android:nestedScrollingEnabled="false"
+                    android:orientation="horizontal"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                    app:layout_constraintEnd_toEndOf="@+id/recyclerGroup134"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/txtArtikel"
+                    android:tag="binding_7"     tools:itemCount="2" tools:listitem="@layout/row_index_fitur_karir_planning3"/>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.core.widget.NestedScrollView>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraintRectangle68"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_30pxv"
+            android:layout_width="0dp"
+            app:layout_constraintBottom_toTopOf="@+id/scrollViewScrollview"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" style="@style/groupStylewhite_5">
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbarToolbar"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_19pxv"
+                android:layout_marginTop="@dimen/_19pxv"
+                android:layout_width="match_parent"
+                app:contentInsetStart="0dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/constraintGroup133"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="@dimen/_91pxh"
+                    android:layout_marginStart="@dimen/_16pxh" android:layout_width="match_parent">
+                    <TextView android:ellipsize="end"
+                        android:gravity="start"
+                        android:id="@+id/txtPersiapanKarir"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_8pxh"
+                        android:layout_width="0dp"
+                        android:singleLine="true"
+                        android:tag="binding_8"                                                                   
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@+id/imageGroup65"
+                        app:layout_constraintTop_toTopOf="parent"
+                        style="@style/txtPoppinssemibold15" tools:text="@string/lbl_persiapan_karir"/>
+                    <ImageView android:clickable="true"
+                        android:id="@+id/imageGroup65"
+                        android:layout_height="@dimen/_16pxh"
+                        android:layout_width="@dimen/_20pxh"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/img_group65"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toStartOf="@+id/txtPersiapanKarir"
+                        app:layout_constraintHorizontal_bias="0.04"
+                        app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"/>
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.appcompat.widget.Toolbar>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

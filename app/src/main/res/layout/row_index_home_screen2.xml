@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable name="indexHomeScreen2RowModel" type="com.application.app.modules.indexhomescreen.data.model.IndexHomeScreen2RowModel"/>
+    </data>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintGroup"
+        android:layout_height="wrap_content" android:layout_width="@dimen/_316pxh">
+        <View android:background="@color/white_A700"
+            android:id="@+id/viewRectangle131"
+            android:layout_height="@dimen/_90pxv"
+            android:layout_width="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@+id/viewRectangle129"/>
+        <View
+            android:background="@drawable/rectangle_bg_white_a700_radius_8"
+            android:id="@+id/viewRectangle129"
+            android:layout_height="@dimen/_238pxv"
+            android:layout_width="0dp"
+            app:layout_constraintBottom_toTopOf="@+id/viewRectangle131"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"/>
+        <TextView android:gravity="start"
+            android:id="@+id/txtDataCenterAda"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_11pxh"
+            android:layout_marginStart="@dimen/_10pxh"
+            android:layout_marginTop="@dimen/_4pxv"
+            android:layout_width="0dp"
+            android:text="@{indexHomeScreen2RowModel.txtDataCenterAda}"
+            app:layout_constraintBottom_toTopOf="@+id/viewRectangle131"
+            app:layout_constraintEnd_toEndOf="@+id/viewRectangle129"
+            app:layout_constraintStart_toStartOf="@+id/viewRectangle129"
+            app:layout_constraintTop_toBottomOf="@+id/txtDataCenterPal"
+            style="@style/txtRobotoregular12" tools:text="@string/msg_data_center_ada"/>
+        <ImageView android:id="@+id/imageRectangle130"
+            android:layout_height="0dp"
+            android:layout_width="@dimen/_316pxh"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toTopOf="@+id/txtDataCenterPal"
+            app:layout_constraintDimensionRatio="1.0:0.5"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            cornerRadius="@{@dimen/_8pxh}"
+            imageRes="@{@drawable/img_rectangle130}" tools:src="@drawable/img_rectangle130"/>
+        <TextView android:ellipsize="end" android:gravity="start"
+            android:id="@+id/txtDataCenterPal"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_129pxh"
+            android:layout_marginStart="@dimen/_10pxh"
+            android:layout_marginTop="@dimen/_6pxv"
+            android:layout_width="0dp" android:singleLine="true"
+            android:text="@{indexHomeScreen2RowModel.txtDataCenterPal}"
+            app:layout_constraintBottom_toTopOf="@+id/txtDataCenterAda"
+            app:layout_constraintEnd_toEndOf="@+id/viewRectangle129"
+            app:layout_constraintStart_toStartOf="@+id/viewRectangle129"
+            app:layout_constraintTop_toBottomOf="@+id/imageRectangle130"
+            style="@style/txtRobotoromanbold16" tools:text="@string/msg_data_center_pal"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

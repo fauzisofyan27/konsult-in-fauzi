@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_pilih_konsultan1.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_pilih_konsultan1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash_screen_2.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_splash_screen_2.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_index_shop_screen.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_index_shop_screen.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_index_home_screen1.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_home_screen1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_splash_screen_4.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_splash_screen_4.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_index_fitur_karir_planning3.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_fitur_karir_planning3.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_index_fitur_karir_planning.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_index_fitur_karir_planning.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_index_fitur_karir_planning1.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_fitur_karir_planning1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash_screen.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_index_home_screen.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_index_home_screen.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_index_home_screen3.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_home_screen3.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_progress_dialog.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/layout_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_index_history_screen.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_index_history_screen.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_index_shop_screen1.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_shop_screen1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash_screen_3.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_splash_screen_3.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_index_fitur_karir_planning2.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_fitur_karir_planning2.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_index_history_screen1.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_history_screen1.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_pilih_konsultan.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/activity_pilih_konsultan.xml"
+    },
+    {
+        "merged": "/Users/fauzisofyan/Downloads/application/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_index_home_screen2.xml",
+        "source": "/Users/fauzisofyan/Downloads/application/app/src/main/res/layout/row_index_home_screen2.xml"
+    }
+]
